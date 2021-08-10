@@ -1,6 +1,4 @@
-![Material-ui](https://user-images.githubusercontent.com/41786877/128862730-420ea996-685e-40d8-9848-340c0237c01b.png)
-![MaterialUi1](https://user-images.githubusercontent.com/41786877/128862734-9f47124d-7b34-450f-af87-df05eff0e88d.png)
-![MaterialUi2](https://user-images.githubusercontent.com/41786877/128862735-2e991200-b207-4323-a7b4-73f703efbfe2.png)
+
 
 # Getting Started with Create React App
 
@@ -11,9 +9,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+![Material-ui](https://user-images.githubusercontent.com/41786877/128863130-b0a73749-8dc4-469d-bf5f-7b43ebe4bd44.png)![MaterialUi1](https://user-images.githubusercontent.com/41786877/128863137-148bffbc-618c-4c0a-89a4-46b519fa6718.png)
+![MaterialUi2](https://user-images.githubusercontent.com/41786877/128863139-377603d5-16af-4241-b3e7-fc30a3f770b2.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
