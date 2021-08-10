@@ -1,6 +1,7 @@
-![Снимок экрана (520)](https://user-images.githubusercontent.com/41786877/128845803-6fa185b4-b2cd-409a-ad43-1cddf5045c4d.png)
-![Снимок экрана (522)](https://user-images.githubusercontent.com/41786877/128845807-6c691823-2e83-4eed-9414-677ea35a3d45.png)
-![Снимок экрана (523)](https://user-images.githubusercontent.com/41786877/128845809-fc0a1157-54dd-41f4-b66a-6182154d9de5.png)
+![Material-ui](https://user-images.githubusercontent.com/41786877/128862730-420ea996-685e-40d8-9848-340c0237c01b.png)
+![MaterialUi1](https://user-images.githubusercontent.com/41786877/128862734-9f47124d-7b34-450f-af87-df05eff0e88d.png)
+![MaterialUi2](https://user-images.githubusercontent.com/41786877/128862735-2e991200-b207-4323-a7b4-73f703efbfe2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
